@@ -7,7 +7,7 @@ COMMIT_COUNT=$(($COMMIT_COUNT+1))
 
 echo "Adicionando novos arquivos"
 git add .
-git commit -m "Backup $COMMIT_COUNT"
+git commit -m "Auto-Backup $COMMIT_COUNT"
 
 echo "Enviando..."
 git push -u origin master
