@@ -2,7 +2,7 @@
 #
 
 echo "Parando Minecraft"
-service minecraft stop
+systemctl stop minecraft.service
 sleep 5
 
 echo "Iniciando Backup"
@@ -18,5 +18,5 @@ echo "Enviando..."
 git push -u origin master
 
 #echo "Iniciando Minecraft"
-#service minecraft start
+systemctl start minecraft.service
 echo "Finalizado"
