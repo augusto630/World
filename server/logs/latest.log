@@ -1,6 +1,22 @@
-[07:32:36] [Server thread/INFO]: BrainSlug_[/51.9.197.145:52759] logged in with entity id 194 at (147.81722695888806, 5.0, 180.69999998807907)
-[07:32:36] [Server thread/INFO]: BrainSlug_ joined the game
-[07:34:53] [Server thread/INFO]: GrunkaLunka_[/51.9.197.145:55361] logged in with entity id 818 at (232.1699303743782, 64.5625, 174.5725845380084)
-[07:34:53] [Server thread/INFO]: GrunkaLunka_ joined the game
-[07:57:03] [Server Shutdown Thread/INFO]: Stopping server
-[07:57:03] [Server Shutdown Thread/INFO]: Saving players
+[15:30:12] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:30:12] [Server thread/INFO]: Loading properties
+[15:30:12] [Server thread/INFO]: Default game type: SURVIVAL
+[15:30:12] [Server thread/INFO]: Generating keypair
+[15:30:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:30:12] [Server thread/INFO]: Using epoll channel type
+[15:30:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:30:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:30:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:30:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:30:12] [Server thread/INFO]: Preparing level "world"
+[15:30:13] [Server thread/INFO]: Loaded 488 advancements
+[15:30:13] [Server thread/INFO]: Preparing start region for level 0
+[15:30:14] [Server thread/INFO]: Preparing spawn area: 0%
+[15:30:15] [Server thread/INFO]: Preparing spawn area: 40%
+[15:30:15] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 983c942d-2a8a-4575-93e6-5a292e852fc6
+[15:30:16] [Server thread/INFO]: Preparing spawn area: 92%
+[15:30:16] [Server thread/INFO]: Done (3.818s)! For help, type "help" or "?"
+[15:30:34] [Server thread/INFO]: GrunkaLunka_[/51.9.197.145:57422] logged in with entity id 239 at (228.42561417289184, 63.0, 131.36846623914278)
+[15:30:34] [Server thread/INFO]: GrunkaLunka_ joined the game
+[15:35:18] [Server Shutdown Thread/INFO]: Stopping server
+[15:35:18] [Server Shutdown Thread/INFO]: Saving players
