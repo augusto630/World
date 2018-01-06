@@ -1,7 +1,13 @@
 {
-  "minecraft:recipes/food/bread": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_wheat": "2018-01-02 21:02:57 -0500"
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
     },
     "done": true
   },
@@ -17,15 +23,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "entered_water": "2018-01-02 17:53:55 -0500"
+      "bred_sheep": "2018-01-02 21:26:01 -0500",
+      "bred_cow": "2018-01-02 21:26:04 -0500",
+      "bred_pig": "2018-01-02 21:27:42 -0500"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_lots_of_items": "2018-01-02 21:03:44 -0500"
+      "has_egg": "2018-01-02 21:26:27 -0500"
     },
     "done": true
   },
@@ -41,15 +49,109 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2018-01-02 21:03:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2018-01-02 21:26:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-01-02 17:53:40 -0500",
+      "deep_ocean": "2018-01-02 21:32:25 -0500",
+      "beaches": "2018-01-02 21:03:09 -0500",
+      "ocean": "2018-01-02 21:32:36 -0500",
+      "river": "2018-01-02 21:25:12 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-01-02 21:31:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-01-02 21:02:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2018-01-02 17:53:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-01-02 21:03:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2018-01-02 17:53:55 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
-      "has_the_recipe": "2018-01-02 21:03:00 -0500"
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2018-01-02 21:15:07 -0500"
     },
     "done": true
   },
@@ -65,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2018-01-02 21:32:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2018-01-02 17:53:55 -0500"
@@ -76,12 +184,5 @@
       "has_at_least_9_wheat": "2018-01-02 21:03:00 -0500"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest": "2018-01-02 17:53:40 -0500",
-      "beaches": "2018-01-02 21:03:09 -0500"
-    },
-    "done": false
   }
 }

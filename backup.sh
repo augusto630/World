@@ -1,5 +1,6 @@
 #!/bin/bash
-#
+## To periodically call a command put this into /etc/crontab
+#59 20   * * *   root    /home/minecraft/World/backup.sh
 
 echo "Parando Minecraft"
 systemctl stop minecraft.service
