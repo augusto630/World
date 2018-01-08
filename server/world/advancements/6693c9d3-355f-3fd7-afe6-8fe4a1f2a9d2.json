@@ -354,6 +354,7 @@
       "cooked_mutton": "2017-12-29 20:44:47 +0000",
       "cooked_beef": "2018-01-01 23:34:40 +0000",
       "baked_potato": "2018-01-01 05:40:51 +0000",
+      "melon": "2018-01-07 22:20:49 +0000",
       "bread": "2018-01-01 01:02:06 +0000",
       "rotten_flesh": "2017-12-29 21:24:21 +0000",
       "cooked_chicken": "2018-01-01 17:35:29 +0000",
@@ -365,6 +366,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2017-12-29 19:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2018-01-07 18:04:57 +0000"
     },
     "done": true
   },
@@ -529,7 +536,8 @@
       "bred_chicken": "2018-01-01 01:45:08 +0000",
       "bred_sheep": "2018-01-02 17:30:57 +0000",
       "bred_wolf": "2018-01-07 01:03:30 +0000",
-      "bred_cow": "2018-01-02 17:30:52 +0000"
+      "bred_cow": "2018-01-02 17:30:52 +0000",
+      "bred_horse": "2018-01-07 18:06:55 +0000"
     },
     "done": false
   },
@@ -814,6 +822,7 @@
       "wither_skeleton": "2018-01-01 16:41:48 +0000",
       "zombie_villager": "2017-12-29 20:29:53 +0000",
       "magma_cube": "2018-01-01 05:37:52 +0000",
+      "slime": "2018-01-07 16:27:01 +0000",
       "skeleton": "2017-12-29 19:55:44 +0000",
       "husk": "2018-01-01 04:30:50 +0000",
       "blaze": "2018-01-01 17:16:03 +0000",
@@ -914,6 +923,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2018-01-01 03:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2018-01-07 22:06:00 +0000"
     },
     "done": true
   },
@@ -1205,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-01-07 16:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-01-03 03:55:25 +0000"
@@ -1358,6 +1379,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2018-01-01 03:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-01-07 16:27:43 +0000"
     },
     "done": true
   },
