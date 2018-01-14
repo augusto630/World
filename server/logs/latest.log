@@ -1,11 +1,1 @@
-[01:12:23] [Server thread/INFO]: GrunkaLunka_ lost connection: Disconnected
-[01:12:23] [Server thread/INFO]: GrunkaLunka_ left the game
 [09:01:01] [Server Shutdown Thread/INFO]: Stopping server
-[09:01:01] [Server Shutdown Thread/INFO]: Saving players
-[09:01:01] [Server thread/INFO]: BrainSlug_ lost connection: Server closed
-[09:01:01] [Server thread/INFO]: BrainSlug_ left the game
-[09:01:01] [Server Shutdown Thread/INFO]: Saving worlds
-[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
-[09:01:01] [Server thread/WARN]: handleDisconnection() called twice
