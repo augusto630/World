@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-01-21 12:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2017-12-29 19:55:09 +0000"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-01-21 12:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2017-12-29 20:27:14 +0000"
@@ -350,6 +362,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2018-01-01 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2018-01-21 14:05:00 +0000"
     },
     "done": true
   },
@@ -574,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2018-01-21 14:05:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-01-12 20:27:21 +0000"
@@ -601,6 +625,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2017-12-29 19:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2018-01-21 12:26:57 +0000"
     },
     "done": true
   },
@@ -830,6 +860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2018-01-21 12:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-12 20:27:21 +0000"
@@ -845,6 +881,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2017-12-29 19:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2018-01-21 16:52:58 +0000"
     },
     "done": true
   },
@@ -927,9 +969,11 @@
       "zombie_villager": "2017-12-29 20:29:53 +0000",
       "magma_cube": "2018-01-01 05:37:52 +0000",
       "slime": "2018-01-07 16:27:01 +0000",
+      "vindicator": "2018-01-21 16:34:27 +0000",
       "skeleton": "2017-12-29 19:55:44 +0000",
       "husk": "2018-01-01 04:30:50 +0000",
       "blaze": "2018-01-01 17:16:03 +0000",
+      "evoker": "2018-01-21 16:43:32 +0000",
       "zombie": "2017-12-29 20:33:47 +0000",
       "cave_spider": "2017-12-29 21:13:06 +0000",
       "witch": "2017-12-29 21:01:56 +0000",
@@ -1246,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2018-01-21 16:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-12-29 20:34:00 +0000"
@@ -1258,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2018-01-21 12:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2017-12-29 19:54:52 +0000"
@@ -1267,6 +1323,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2017-12-29 20:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-01-21 12:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2018-01-21 16:52:58 +0000"
     },
     "done": true
   },
@@ -1354,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2018-01-21 16:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-01-12 20:27:21 +0000"
@@ -1414,6 +1488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2018-01-21 16:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-01-03 03:55:25 +0000"
@@ -1471,6 +1551,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2017-12-29 20:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2018-01-21 15:55:40 +0000"
     },
     "done": true
   },
@@ -1546,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2018-01-21 12:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-01-01 03:43:57 +0000"
@@ -1608,6 +1700,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2018-01-21 15:26:24 +0000",
       "forest": "2017-12-29 19:48:25 +0000",
       "birch_forest": "2018-01-03 03:15:25 +0000",
       "swampland": "2018-01-07 04:29:58 +0000",
@@ -1618,7 +1711,10 @@
       "forest_hills": "2017-12-29 21:46:50 +0000",
       "savanna": "2017-12-29 21:26:11 +0000",
       "plains": "2018-01-02 00:53:34 +0000",
+      "savanna_rock": "2018-01-21 15:08:52 +0000",
+      "taiga": "2018-01-21 15:30:00 +0000",
       "birch_forest_hills": "2018-01-01 01:39:56 +0000",
+      "taiga_cold": "2018-01-21 15:27:05 +0000",
       "ocean": "2017-12-29 20:15:15 +0000",
       "extreme_hills": "2018-01-02 00:52:08 +0000",
       "roofed_forest": "2018-01-02 00:49:08 +0000",
@@ -1661,6 +1757,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-12-29 19:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2018-01-21 16:52:58 +0000"
     },
     "done": true
   },
@@ -1916,6 +2018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2018-01-21 12:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2017-12-29 20:27:14 +0000"
@@ -1955,6 +2063,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-01-12 20:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2018-01-21 15:55:40 +0000"
     },
     "done": true
   },
