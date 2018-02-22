@@ -1,1 +1,20 @@
+[04:18:14] [Server thread/INFO]: Mauricio.hs[/189.35.130.152:55454] logged in with entity id 160 at (209.5, 64.0, 126.5)
+[04:18:14] [Server thread/INFO]: Mauricio.hs joined the game
+[04:26:37] [Server thread/INFO]: Mauricio.hs has made the advancement [A Seedy Place]
+[04:27:18] [Server thread/INFO]: Mauricio.hs has made the advancement [The Parrots and the Bats]
+[04:28:59] [Server thread/INFO]: Mauricio.hs has made the advancement [Sweet dreams]
+[04:29:58] [Server thread/INFO]: Mauricio.hs has made the advancement [We Need to Go Deeper]
+[04:29:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9339ms behind, skipping 186 tick(s)
+[04:29:58] [Server thread/WARN]: Mauricio.hs moved too quickly! -196.7635898443109,-2.0,-132.54157702039626
+[04:32:29] [Server thread/INFO]: Mauricio.hs has made the advancement [Acquire Hardware]
+[04:34:40] [Server thread/INFO]: Mauricio.hs has made the advancement [Monster Hunter]
+[04:37:03] [Server thread/INFO]: Mauricio.hs has made the advancement [Take Aim]
+[04:40:59] [Server thread/INFO]: Mauricio.hs was shot by Skeleton
+[04:41:05] [Server thread/INFO]: Mauricio.hs lost connection: Disconnected
+[04:41:05] [Server thread/INFO]: Mauricio.hs left the game
 [09:01:01] [Server Shutdown Thread/INFO]: Stopping server
+[09:01:01] [Server Shutdown Thread/INFO]: Saving players
+[09:01:01] [Server Shutdown Thread/INFO]: Saving worlds
+[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
