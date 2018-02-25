@@ -1,0 +1,22 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2018-02-24 23:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-02-24 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-02-24 23:42:43 +0000",
+      "beaches": "2018-02-24 23:43:50 +0000",
+      "river": "2018-02-24 23:44:38 +0000"
+    },
+    "done": false
+  }
+}
