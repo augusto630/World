@@ -1,14 +1,13 @@
-[01:52:14] [Server thread/INFO]: sthe[/187.18.88.164:11372] logged in with entity id 179 at (193.5, 67.0, 124.5)
-[01:52:15] [Server thread/INFO]: sthe joined the game
-[01:56:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6081ms behind, skipping 121 tick(s)
-[02:17:17] [Server thread/INFO]: sthe has made the advancement [Getting an Upgrade]
-[02:17:43] [Server thread/INFO]: sthe has made the advancement [Sweet dreams]
-[02:20:49] [Server thread/INFO]: sthe has made the advancement [A Seedy Place]
-[02:40:23] [Server thread/INFO]: sthe lost connection: Disconnected
-[02:40:23] [Server thread/INFO]: sthe left the game
-[09:01:02] [Server Shutdown Thread/INFO]: Stopping server
-[09:01:02] [Server Shutdown Thread/INFO]: Saving players
-[09:01:02] [Server Shutdown Thread/INFO]: Saving worlds
-[09:01:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[09:01:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[09:01:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[00:26:11] [Server thread/INFO]: sthe[/187.18.88.164:16352] logged in with entity id 321 at (224.46667481841595, 60.7125, 168.5)
+[00:26:11] [Server thread/INFO]: sthe joined the game
+[00:36:49] [Server thread/INFO]: sthe has made the advancement [Stone Age]
+[00:42:04] [Server thread/INFO]: sthe has made the advancement [Monster Hunter]
+[01:23:53] [Server thread/INFO]: sthe fell from a high place
+[01:24:12] [Server thread/INFO]: sthe lost connection: Disconnected
+[01:24:12] [Server thread/INFO]: sthe left the game
+[09:01:01] [Server Shutdown Thread/INFO]: Stopping server
+[09:01:01] [Server Shutdown Thread/INFO]: Saving players
+[09:01:01] [Server Shutdown Thread/INFO]: Saving worlds
+[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[09:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
