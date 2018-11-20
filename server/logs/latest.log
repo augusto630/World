@@ -1,11 +1,1 @@
-[01:03:00] [Server thread/INFO]: 21321[/191.179.186.54:49871] logged in with entity id 310 at (201.5, 65.0, 118.5)
-[01:03:00] [Server thread/INFO]: 21321 joined the game
-[01:03:45] [Server thread/INFO]: 21321 has made the advancement [We Need to Go Deeper]
-[01:03:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7899ms behind, skipping 157 tick(s)
-[01:03:45] [Server thread/WARN]: 21321 moved too quickly! -196.58139610594046,-2.0,-132.3705337453693
-[01:04:20] [Server thread/INFO]: 21321 lost connection: Disconnected
-[01:04:20] [Server thread/INFO]: 21321 left the game
 [04:01:01] [Server Shutdown Thread/INFO]: Stopping server
-[04:01:01] [Server Shutdown Thread/INFO]: Saving players
-[04:01:01] [Server Shutdown Thread/INFO]: Saving worlds
-[04:01:01] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
